@@ -1,0 +1,11 @@
+TODO
+====
+1. Majetkova ucast.
+if ($company =~ m/^(.*?)\s*\((.*)\)$/ms) {
+	$company = $1;
+	$ownership_interest = $2;
+}
+2.
+
+Applied
+=======
